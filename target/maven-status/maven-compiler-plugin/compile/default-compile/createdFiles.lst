@@ -1,0 +1,13 @@
+br\sigabem\exception\CustomExceptionHandler.class
+br\sigabem\repository\CotacaoRepository.class
+br\sigabem\dto\FreteRequestDto.class
+br\sigabem\model\Cotacao.class
+br\sigabem\service\FreteService.class
+br\sigabem\FreteApplication.class
+br\sigabem\exception\ApiError.class
+br\sigabem\service\FreteCalculator.class
+br\sigabem\exception\CepNotFoundException.class
+br\sigabem\client\CepResponse.class
+br\sigabem\client\CepClient.class
+br\sigabem\controller\FreteController.class
+br\sigabem\dto\FreteResponseDto.class
